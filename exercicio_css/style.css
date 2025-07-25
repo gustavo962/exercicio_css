@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(221, 209, 245);
+}
+*{
+    box-sizing: border-box;
+    margin: 5px;
+    padding: 0;
+    text-align: center;
+    
+}
+.porta{font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: rgb(234, 129, 253);
+}
+ 
+header li {
+    display: inline;}
+    
+
+h2{
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.artigos{
+    display: flex;
+    
+}
+
+.artigos article img{
+    height: 180px;
+}
+
+.artigos article{
+    width: 50%;
+   
+}
+.artigos article a {
+    background-color: blue;
+    color: aliceblue;
+    padding: 5px;
+    display: inline-block;
+}
+.artigos article p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;    
+}
+#sports h2{
+    color: rgb(5, 160, 0);
+}
+#Economia h2{
+    color: blue;
+}
+#Gamerseempresarios h2{
+    color: rgb(121, 0, 235);
+}
